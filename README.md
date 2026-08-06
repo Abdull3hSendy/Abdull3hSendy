@@ -18,8 +18,6 @@
 <a href="https://x.com/Abdull2h_Sendy" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/twitter/follow/Abdull2h_Sendy?style=social&background=000000" alt="Follow on X" style="max-width: 100%; height: auto;"></a>
 
-<a href="https://www.linkedin.com/in/abdullah-sendy-b42a40229/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/-Abdullah%20Sendy-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn: Abdullah Sendy" style="max-width: 100%; height: auto;"></a>
 </div>
 
 <br>
