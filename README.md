@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/Abdull3hSendy"><img src="https://img.shields.io/github/followers/Abdull3hSendy?label=Followers&style=flat&color=0e75b6" alt="GitHub Followers"></a>
-  <img src="https://komarev.com/ghpvc/?username=Abdull3hSendy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Abdull3hSendy.Abdull3hSendy&left_text=Profile%20views&left_color=555555&right_color=0e75b6" alt="Profile Views">
   <a href="https://x.com/Abdull2h_Sendy"><img src="https://img.shields.io/twitter/follow/Abdull2h_Sendy?style=social" alt="Follow on X"></a>
 </p>
 
@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me
 
-- 🇸🇦 **Computer & Network Engineer** and **Full Stack Developer** from Saudi Arabia
+- 📍 **Computer & Network Engineer** and **Full Stack Developer** from Saudi Arabia
 - 🏛️ Building internal platforms for government entities — compliance tracking, document workflows and dashboards
 - 🔐 Experienced in **enterprise Single Sign-On**: integrating apps with Active Directory via **ADFS** (OpenID Connect / SAML 2.0) and **OCI IAM Identity Domains**
 - 🚀 Deploying production **Next.js** apps on **Windows Server + IIS**, with automated PowerShell redeploy scripts
